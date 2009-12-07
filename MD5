@@ -1,0 +1,12 @@
+205e1c3e3e0db56d32d6ca392235c0c9 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+495aabd83ee915651afe2f2fff0bac1b *R/DiversitySampler-internal.R
+898f72a499687cdcd63f6cbec54b36d8 *R/Gd.R
+5d16f146b8495074ab7e7e5a97344da6 *R/H.sampler.R
+4f42886c48ea8eee7882078f0baacc01 *R/Hs.R
+2002eef82c1c9046a6438247f48c5e73 *R/count.R
+e648c3d2f07b0fef735f48f192be2d17 *man/DiversitySampler-package.Rd
+1723d045f014e83a59a53e60c75c5b96 *man/Gd.Rd
+7f91724fa43c6ea6178bed181c3d63f8 *man/H.sampler.Rd
+139c382a70e49ba131b55e99948b6610 *man/Hs.Rd
+a9b5d8da2ce264602d9654a63faff4fc *man/count.Rd
