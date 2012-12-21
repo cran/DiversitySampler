@@ -23,7 +23,7 @@ When corr is FALSE the value of scrub will not influence the value returned by t
 \references{Shannon C.E. (1948) A mathematical theory of communication. Bell System Technical Journal 27: 379-423 and 623-656.
 }
 \author{Raj Whitlock and Matthew K. Lau}
-\note{}
+%\note{}
 \seealso{\code{\link{H.sampler}}, \code{\link{Gd}}}
 \examples{
 x=rpois(25,10)

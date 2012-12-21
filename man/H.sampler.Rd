@@ -25,9 +25,9 @@ The Monte-Carlo procedure draws random individuals based on the relative abundan
 \value{
 A matrix of diversity indices for each observation (rows) at each sampling level (columns).
 }
-\references{}
+%\references{}
 \author{Matthew K. Lau and Raj Whitlock}
-\note{}
+%\note{}
 \seealso{ \code{\link{sample}}, \code{\link{Gd}}, \code{\link{Hs}}, \code{\link{count}}}
 \examples{
 x=array(round(runif(100,1,10)),c(10,10))

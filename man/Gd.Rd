@@ -21,7 +21,7 @@ Returns the compositional evenness calculated from the sample.
 \references{Nei M. 1987. Molecular Evolutionary Genetics. Columbia University Press, New York, p. 180. 
 }
 \author{Raj Whitlock}
-\note{}
+%\note{}
 \seealso{\code{\link{H.sampler}}, \code{\link{Hs}}}
 \examples{
 x=rpois(25,10)

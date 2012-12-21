@@ -18,10 +18,10 @@ count(sv = "species vector", x = "species sample vector")
 \value{
 Returns a vector of species counts.
 }
-\references{}
+%\references{}
 \author{Matthew K. Lau}
-\note{}
-\seealso{}
+%\note{}
+%\seealso{}
 \examples{
 sv=1:10
 x=c(1,1,1,1,1,2,3,3,5,5,5,6,7,8,9,10)
